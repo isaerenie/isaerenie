@@ -1,4 +1,4 @@
-### Hi there 👋, I'm İsa
+### Hi there 👋
 #### I am Java Developer
 I really enjoy learning languages and frameworks.
 
